@@ -186,6 +186,19 @@
 				"url": "{{local}}/application-requests/1"
 			},
 			"response": []
+		},
+		{
+			"name": "Demo_5 Copy",
+			"id": "1fe6084a-a56e-414d-ac70-0f849a4850d1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "{{local}}/application-requests/1"
+			},
+			"response": []
 		}
 	]
 }
